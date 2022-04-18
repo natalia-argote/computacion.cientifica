@@ -1,4 +1,3 @@
-# computacion.cientifica
+# DataQualityTurorial
 
-#Integrantes: Natalia Argote Heredia
-
+#Integrantes: Natalia Angelica Argote Heredia
